@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de confidentialité - MIGNIENBON VISION</title>
+  <meta name="description" content="Politique de confidentialité de MIGNIENBON VISION.">
+  <style>
+    :root { --primary:#0b2d5c; --accent:#d6a928; --bg:#f5f7fa; --text:#222; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Arial,Helvetica,sans-serif; background:var(--bg); color:var(--text); line-height:1.7; }
+    header { background:linear-gradient(135deg,#0b2d5c,#174f91); color:#fff; padding:48px 20px; text-align:center; }
+    header h1 { margin:0 0 10px; font-size:32px; }
+    header p { margin:0; opacity:.9; }
+    main { max-width:900px; margin:35px auto; padding:0 20px 50px; }
+    section { background:#fff; padding:26px 30px; margin-bottom:18px; border-radius:12px; box-shadow:0 3px 14px rgba(0,0,0,.06); }
+    h2 { color:var(--primary); margin-top:0; font-size:21px; }
+    a { color:#145bb5; }
+    .contact { border-left:5px solid var(--accent); }
+    footer { text-align:center; color:#666; padding:25px 20px 40px; font-size:14px; }
+    @media (max-width:600px) {
+      header h1 { font-size:25px; }
+      section { padding:22px 20px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Politique de confidentialité</h1>
+    <p>MIGNIENBON VISION</p>
+    <p>Dernière mise à jour : 20 août 2026</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>1. Responsable du traitement</h2>
+      <p>MIGNIENBON VISION est responsable de la collecte et du traitement des données personnelles présentées dans cette politique.</p>
+      <p><strong>Activités :</strong> services numériques, communication digitale, formation et distribution.</p>
+      <p><strong>Localisation :</strong> Ouagadougou, Burkina Faso</p>
+      <p><strong>Téléphone :</strong> 77 55 11 11</p>
+    </section>
+
+    <section>
+      <h2>2. Données que nous pouvons collecter</h2>
+      <p>Selon le service demandé, nous pouvons collecter notamment votre nom et prénom, numéro de téléphone, adresse e-mail, ville ou zone de résidence, activité professionnelle, service ou formation qui vous intéresse, ainsi que toute information que vous choisissez volontairement de communiquer.</p>
+    </section>
+
+    <section>
+      <h2>3. Comment vos données sont collectées</h2>
+      <p>Vos données peuvent être collectées lorsque vous remplissez un formulaire Facebook ou Instagram, nous contactez par téléphone, WhatsApp, e-mail ou réseaux sociaux, demandez des informations sur nos services ou formations, vous inscrivez à une formation, demandez un devis ou participez à une campagne promotionnelle.</p>
+    </section>
+
+    <section>
+      <h2>4. Utilisation de vos données</h2>
+      <p>Nous pouvons utiliser vos informations pour répondre à vos demandes, traiter vos inscriptions, vous contacter au sujet du service demandé, vous transmettre des informations commerciales ou promotionnelles, améliorer nos services et formations, assurer le suivi des clients et prospects et gérer nos activités commerciales.</p>
+      <p><strong>MIGNIENBON VISION ne vend pas vos données personnelles à des tiers.</strong></p>
+    </section>
+
+    <section>
+      <h2>5. Formulaires Facebook et plateformes tierces</h2>
+      <p>Lorsque vous remplissez un formulaire publicitaire Facebook ou Instagram, les informations que vous fournissez peuvent être transmises à MIGNIENBON VISION afin que nous puissions répondre à votre demande.</p>
+      <p>Meta peut également traiter certaines données conformément à sa propre politique de confidentialité.</p>
+    </section>
+
+    <section>
+      <h2>6. Conservation des données</h2>
+      <p>Nous conservons les données personnelles pendant la durée nécessaire aux finalités pour lesquelles elles ont été collectées ou pendant la durée requise par les obligations légales applicables. Lorsque les données ne sont plus nécessaires, elles peuvent être supprimées ou anonymisées.</p>
+    </section>
+
+    <section>
+      <h2>7. Protection des données</h2>
+      <p>MIGNIENBON VISION met en œuvre des mesures raisonnables destinées à protéger les données personnelles contre l’accès non autorisé, la perte, la divulgation, la modification et l’utilisation abusive. Aucun système informatique ou moyen de transmission sur Internet ne peut toutefois garantir une sécurité absolue.</p>
+    </section>
+
+    <section>
+      <h2>8. Partage des données</h2>
+      <p>MIGNIENBON VISION ne vend ni ne loue les données personnelles de ses clients ou prospects. Certaines informations peuvent être communiquées à des prestataires ou partenaires lorsque cela est nécessaire à la fourniture d’un service demandé, au fonctionnement de nos activités ou au respect d’une obligation légale.</p>
+    </section>
+
+    <section>
+      <h2>9. Vos droits</h2>
+      <p>Selon la réglementation applicable, vous pouvez demander l’accès à vos données personnelles, leur rectification, la suppression de certaines données, la limitation de certains traitements ou le retrait de votre consentement lorsque le traitement repose sur celui-ci.</p>
+      <p>Pour exercer vos droits, contactez-nous au <strong>77 55 11 11</strong>.</p>
+    </section>
+
+    <section>
+      <h2>10. Communications commerciales</h2>
+      <p>Si vous avez fourni vos coordonnées pour recevoir des informations concernant nos services, formations, offres ou promotions, nous pouvons vous contacter à ce sujet. Vous pouvez à tout moment demander l’arrêt de ces communications.</p>
+    </section>
+
+    <section>
+      <h2>11. Cookies et technologies similaires</h2>
+      <p>Notre site ou certains services numériques peuvent utiliser des cookies ou technologies similaires afin d’améliorer l’expérience utilisateur, mesurer l’audience et améliorer nos services. Vous pouvez modifier les paramètres de votre navigateur pour contrôler l’utilisation des cookies.</p>
+    </section>
+
+    <section>
+      <h2>12. Mineurs</h2>
+      <p>Nos services ne sont pas destinés à collecter volontairement des données personnelles de mineurs sans l’autorisation ou l’implication d’un parent ou représentant légal lorsque celle-ci est requise.</p>
+    </section>
+
+    <section>
+      <h2>13. Modification de cette politique</h2>
+      <p>MIGNIENBON VISION peut mettre à jour cette politique afin de tenir compte de l’évolution de ses services, de ses pratiques ou de la réglementation applicable. La date de dernière mise à jour est indiquée en haut de cette page.</p>
+    </section>
+
+    <section class="contact">
+      <h2>14. Contact</h2>
+      <p><strong>MIGNIENBON VISION</strong><br>
+      Ouagadougou, Burkina Faso<br>
+      Téléphone : <strong>77 55 11 11</strong></p>
+      <p>Pour toute question, demande ou réclamation concernant la protection de vos données personnelles, contactez-nous à ce numéro.</p>
+    </section>
+  </main>
+
+  <footer>
+    © 2026 MIGNIENBON VISION — Tous droits réservés.
+  </footer>
+</body>
+</html>
